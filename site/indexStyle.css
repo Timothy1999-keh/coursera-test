@@ -1,0 +1,14 @@
+* { margin: 0;
+	padding: 0;
+	box-sizing: border-box; }
+
+body { background-color: #ba55d3; }
+
+h1 { color: hsl(0,0%,20%);
+	 text-align: center; }
+
+p { color: hsl(0,0%,20%);
+	margin: 0 10px 0 10px; }
+
+h2 { color: hsl(0,0%,20%);
+	 margin-left: 10px; }
